@@ -1,4 +1,4 @@
-/* -----Smart device control interface-----
+/* -----Smart device control interface question-----
 
 public class SmartDeviceDemo {
 
